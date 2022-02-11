@@ -183,3 +183,12 @@ We see that the most important features influencing sale price can be grouped in
 
 **Proxmity**
 - Avoid properties adjacent to the E-W railroad.
+
+## RMSE Score (Kaggle Submission)
+
+![kaggle_submission](assets/kaggle_submission_dataset4_20220203_11pm_current_best.png)
+
+
+```python
+
+```
